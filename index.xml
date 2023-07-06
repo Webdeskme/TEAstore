@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TEAhouse</title>
+    <link>/</link>
+    <description>Recent content on TEAhouse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Jul 2023 15:13:43 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>/welcome/</link>
+      <pubDate>Thu, 06 Jul 2023 15:13:43 -0400</pubDate>
+      
+      <guid>/welcome/</guid>
+      <description>Welcome to TEAhouse Welcome and thank you for joining us on this quest. We are so excited to have you here with us. Please enjoy the product and if you are ready we would be so happy if you would like to join us further as a contributor.</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>/posts/</link>
+      <pubDate>Thu, 06 Jul 2023 15:13:16 -0400</pubDate>
+      
+      <guid>/posts/</guid>
+      <description>Welcome to TEAhouse Welcome and thank you for joining us on this quest. We are so excited to have you here with us. Please enjoy the product and if you are ready we would be so happy if you would like to join us further as a contributor.</description>
+    </item>
+    
+    <item>
+      <title>TEAstore</title>
+      <link>/teastore/</link>
+      <pubDate>Thu, 06 Jul 2023 14:50:14 -0400</pubDate>
+      
+      <guid>/teastore/</guid>
+      <description>TEAstore Welcome to the TEAstore! You can find all the most popular TEA apps here.</description>
+    </item>
+    
+  </channel>
+</rss>
